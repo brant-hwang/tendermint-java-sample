@@ -1,4 +1,4 @@
-# Spring Boot ABCI for Tendermint
+# SpringBoot, SpringDataJPA, jABCI based Tendermint Demo Application
 
 ## Prerequisite
 ```
